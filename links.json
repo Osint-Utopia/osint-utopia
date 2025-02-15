@@ -1,0 +1,26 @@
+{
+  "links": [
+    { "name": "OSINT Utopia Categoria", "url": "https://start.me/p/7kzDqv/osint-utopia-categoria?locale=es" },
+    { "name": "Photo OSINT", "url": "https://start.me/p/0PgzqO/photo-osint" },
+    { "name": "International Security Research", "url": "https://start.me/p/2pMv6d/international-security-research" },
+    { "name": "Databases", "url": "https://start.me/p/QRENnO/databases" },
+    { "name": "Palabras Clave", "url": "https://start.me/p/VvGz56/palabras-clave" },
+    { "name": "Persona", "url": "https://start.me/p/ZkMLp5/persona" },
+    { "name": "CSE Utopia", "url": "https://start.me/p/EL84Km/cse-utopia" },
+    { "name": "SA OSINT", "url": "https://start.me/p/5vN2a0/sa-osint" },
+    { "name": "Mappy", "url": "https://start.me/p/8ykwnj/mappy" },
+    { "name": "Global", "url": "https://start.me/p/rxDad8/global" },
+    { "name": "Video Resource Toolbox", "url": "https://start.me/p/dl1ME2/video-resource-toolbox" },
+    { "name": "SIM's Tools", "url": "https://start.me/p/KMjgBy/sim-s-tools" },
+    { "name": "OSINT Investigation Workflow", "url": "https://www.osintme.com/index.php/2022/08/31/person-osint-investigation-workflow-from-a-privacy-perspective/" },
+    { "name": "Exploit DB Google Hacking Database", "url": "https://www.exploit-db.com/google-hacking-database" },
+    { "name": "Dork Genius", "url": "https://dorkgenius.com" },
+    { "name": "Cyber Background Checks", "url": "https://www.cyberbackgroundchecks.com" },
+    { "name": "Smart Background Checks", "url": "https://www.smartbackgroundchecks.com" },
+    { "name": "Boolean Strings Tools", "url": "https://booleanstrings.com/tools/" },
+    { "name": "Blackbird OSINT", "url": "https://blackbird-osint.herokuapp.com" },
+    { "name": "Awesome Infosec", "url": "https://github.com/onlurking/awesome-infosec" },
+    { "name": "Awesome Threat Intelligence", "url": "https://github.com/hslatman/awesome-threat-intelligence" },
+    { "name": "Awesome ChatGPT Repositories", "url": "https://github.com/taishi-i/awesome-ChatGPT-repositories" }
+  ]
+}
