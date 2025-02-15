@@ -3,15 +3,15 @@ body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
     padding: 0;
-    background: linear-gradient(to right, #1e3c72, #2a5298);
+    background: linear-gradient(to right, #da3f47, #b80312);
     color: white;
     text-align: center;
     transition: background 0.3s, color 0.3s;
 }
 
 body.dark-mode {
-    background: #323232;
-    color: #202124;
+    background: #cc772d;
+    color: #0387ab;
 }
 
 header {
