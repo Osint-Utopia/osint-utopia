@@ -10,8 +10,8 @@ body {
 }
 
 body.dark-mode {
-    background: #121212;
-    color: #f1f1f1;
+    background: #323232;
+    color: #202124;
 }
 
 header {
@@ -42,7 +42,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #f39c12;
+    color: #fb940b;
 }
 
 .hero {
@@ -54,7 +54,7 @@ nav ul li a:hover {
 .btn {
     display: inline-block;
     padding: 12px 25px;
-    background: #f39c12;
+    background: #fb940b;
     color: white;
     text-decoration: none;
     border-radius: 5px;
@@ -63,7 +63,7 @@ nav ul li a:hover {
 }
 
 .btn:hover {
-    background: #d35400;
+    background: #93C54B;
 }
 
 .search {
