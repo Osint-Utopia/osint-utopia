@@ -46,7 +46,7 @@ nav ul li a:hover {
 }
 
 .hero {
-    margin-top: 100px;
+    margin-top: 150px; /* Aumentar margen superior */
     padding: 50px;
     animation: fadeIn 2s ease-in-out;
 }
